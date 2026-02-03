@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "loan-manager": {
+      "command": "C:/dev/git/caixabank/mcp/venv/Scripts/python.exe",
+      "args": ["C:/dev/git/caixabank/mcp/main.py"],
+      "env": {
+        "DEBUG": "true"
+      }
+    }
+  }
+}
